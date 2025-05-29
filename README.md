@@ -1,1 +1,2 @@
 # chatsa
+Simple amnesiac chat
